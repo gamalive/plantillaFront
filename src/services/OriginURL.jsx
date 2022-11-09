@@ -1,0 +1,1 @@
+export const routeOrigin = 'https://localhost:44301/erp/v1/'
